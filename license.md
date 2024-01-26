@@ -1,3 +1,5 @@
+[back to index](./README.md)
+
 ### License
 
 This arc42-based template is licensed under a Creative Commons Attribution-ShareAlike 4.0 License.
