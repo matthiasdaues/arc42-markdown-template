@@ -1,3 +1,4 @@
+[back to index](../README.md)
 # Solution Strategy
 
 <div class="formalpara-title">
