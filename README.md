@@ -28,3 +28,7 @@ The markdown files reside in the folder "docs". Additional files or subfolder st
 10. [Quality Requirements](docs/10_quality_requirements.md)
 11. [Risks & Technical Debt](docs/11_risks_and_technical_debt.md)
 12. [Glossary](docs/12_glossary.md)
+
+
+---
+[License](./license.md)
